@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Password_Game</string>
+    <string name="fragment_team_select_team1_title">TEAM 1</string>
+    <string name="fragment_team_select_team2_title">TEAM 2</string>
+    <string name="fragment_team_select_start_button_title">GO!</string>
+</resources>
